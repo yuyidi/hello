@@ -32,6 +32,11 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.bladejava</groupId>
+			<artifactId>blade-core</artifactId>
+			<version>1.4.0-beta</version>
+		</dependency>
+		<dependency>
+			<groupId>com.bladejava</groupId>
 			<artifactId>blade-startup</artifactId>
 			<version>1.0.0</version>
 		</dependency>
